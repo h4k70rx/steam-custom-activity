@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/icon.ico" width="35px" height="35px"> Steam Custom Activity 1.1
+# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/icon.ico" width="35px" height="35px"> Steam Custom Activity v2025.03.16
 
 * This application gives you ability to set custom activity through steam launcher.
 
@@ -15,7 +15,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 <br />
 
 # :arrow_down: Download
-* <b>[Latest version](https://github.com/kpuc313/Steam-Custom-Activity/releases/tag/v1.1 "Latest version")</b>
+* <b>[Latest version](https://github.com/kpuc313/Steam-Custom-Activity/releases/tag/v2025.03.16 "Latest version")</b>
 * <b>[All versions](https://github.com/kpuc313/Steam-Custom-Activity/releases/ "All versions")</b>
 
 <br />
