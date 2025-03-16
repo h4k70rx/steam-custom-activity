@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/icon.ico" width="35px" height="35px"> Steam Custom Activity v2025.03.16</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kpuc313/steam-custom-activity/master/icon.ico" width="35px" height="35px"> Steam Custom Activity v2025.03.16</h1>
 <p align="center"><b><a href="#page_facing_up-description-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#cd-install-">:cd:INSTALL</a> • <a href="#arrow_down-download-">:arrow_down:DOWNLOAD</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
@@ -16,13 +16,13 @@
 <h1>:milky_way: Preview <a href="#-steam-custom-activity-v20250316" title="Go to Navigation">[↑]</a></h1>
 
 * Added to Steam shortcuts and changed name to custom activity.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/preview/preview_01.jpg)
+![alt text](https://raw.githubusercontent.com/kpuc313/steam-custom-activity/master/preview/preview_01.jpg)
 
 * Name changed from application properties to set custom activity.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/preview/preview_02.jpg)
+![alt text](https://raw.githubusercontent.com/kpuc313/steam-custom-activity/master/preview/preview_02.jpg)
 
 * Application in action.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/preview/preview_03.jpg)
+![alt text](https://raw.githubusercontent.com/kpuc313/steam-custom-activity/master/preview/preview_03.jpg)
 
 <br />
 
@@ -34,14 +34,14 @@
 
 <h1>:arrow_down: Download <a href="#-steam-custom-activity-v20250316" title="Go to Navigation">[↑]</a></h1>
 
-* <b>[Latest version](https://github.com/kpuc313/Steam-Custom-Activity/releases/tag/v2025.03.16 "Latest version")</b>
-* <b>[All versions](https://github.com/kpuc313/Steam-Custom-Activity/releases/ "All versions")</b>
+* <b>[Latest version](https://github.com/kpuc313/steam-custom-activity/releases/tag/v2025.03.16 "Latest version")</b>
+* <b>[All versions](https://github.com/kpuc313/steam-custom-activity/releases/ "All versions")</b>
 
 <br />
 
 <h1>:scroll: Changelog <a href="#-steam-custom-activity-v20250316" title="Go to Navigation">[↑]</a></h1>
 
-<b>[v2025.03.16:](https://github.com/kcenow/steam-custom-activity/releases/tag/v2025.03.16 "Latest version")</b>	First Release.
+<b>[v2025.03.16:](https://github.com/kpuc313/steam-custom-activity/releases/tag/v2025.03.16 "Latest version")</b>	First Release.
 
 <br />
 
