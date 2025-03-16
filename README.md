@@ -41,7 +41,7 @@
 
 <h1>:scroll: Changelog <a href="#-steam-custom-activity-v20250316" title="Go to Navigation">[↑]</a></h1>
 
-<b>[v2025.03.16:](https://github.com/kcenow/Steam-Custom-Activity/releases/tag/v2025.03.16 "Latest version")</b>	First Release.
+<b>[v2025.03.16:](https://github.com/kcenow/steam-custom-activity/releases/tag/v2025.03.16 "Latest version")</b>	First Release.
 
 <br />
 
