@@ -35,7 +35,6 @@
 <h1>:arrow_down: Download <a href="#-steam-custom-activity-v20250316" title="Go to Navigation">[↑]</a></h1>
 
 * <b>[Latest version](https://github.com/kpuc313/steam-custom-activity/releases/tag/v2025.03.16 "Latest version")</b>
-
 * <b>[All versions](https://github.com/kpuc313/steam-custom-activity/releases/ "All versions")</b>
 
 <br />
