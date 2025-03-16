@@ -28,10 +28,10 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 
 # :milky_way: Preview
 * Added to Steam shortcuts and changed name to custom activity.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/Preview/Preview%2001.jpg)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/preview/preview_01.jpg)
 
 * Name changed from application properties to set custom activity.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/Preview/Preview%2002.jpg)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/preview/preview_02.jpg)
 
 * Application in action.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/Preview/Preview%2003.jpg)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Custom-Activity/master/preview/preview_03.jpg)
