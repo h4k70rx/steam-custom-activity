@@ -3,7 +3,7 @@
 
 <br />
 
-<h1>:page_facing_up: Description <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:page_facing_up: Description <a href="##-steam-custom-activity-v20250316" title="Go to Navigation">[↑]</a></h1>
 
 * This application gives you ability to set custom activity through steam launcher.
 
